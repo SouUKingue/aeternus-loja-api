@@ -1,1 +1,8 @@
+name = "aeternus-loja-api"
+main = "worker.js"
+compatibility_date = "2026-10-15"
 
+[[d1_databases]]
+binding = "DB"
+database_name = "aeternus-loja-db"
+database_id = "ceb1f8ef-85fe-4382-b67e-3822471fcac3"
